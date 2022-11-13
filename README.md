@@ -16,8 +16,9 @@
 
 Para adicionar mais música, apenas é necessário move-la para a pasta "audio/".
 
-# ngrok|Para ip externo|
+# ngrok |Para ip externo|
 ![image](https://user-images.githubusercontent.com/93106680/201505094-093158f3-1faf-4e4a-b341-aa2275d94598.png)
-EX: ngrok protocolo porta.
 
+Configuração server.py: HOST = 'localhost', PORT = escolhida no ngrok.
+Configuraçção client.py: HOST = ip ngrok, PORT = fornecida pelo ip gerado pelo ngrok.
 
