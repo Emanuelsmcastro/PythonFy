@@ -14,7 +14,7 @@
 - python server.py
 - python client.py
 
-Para adicionar mais música, apenas é necessário move-la para a pasta "audio/".
+Para adicionar mais músicas, apenas é necessário move-la para a pasta "audio/".
 
 # ngrok |Para ip externo|
 ![image](https://user-images.githubusercontent.com/93106680/201505094-093158f3-1faf-4e4a-b341-aa2275d94598.png)
