@@ -7,7 +7,7 @@ choice_song = lambda id: {'ID': id}
 async def tcp_echo_client():
     song_started = False
     reader, writer = await asyncio.open_connection(
-        'localhost', 5555)
+        '000.000.0.000', 5555)
     data = await reader.read(1024)
     print(data)
     choice = choice_song(int(input('Choice a song ID: ')))
