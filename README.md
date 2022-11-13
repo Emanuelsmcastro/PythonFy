@@ -1,15 +1,3 @@
 # PythonFy
  
-* [Título![Captura de tela_20221025_215324](https://user-images.githubusercontent.com/93106680/201504870-a3864755-c9f0-44af-a248-3f85e0fa3a51.png)
- e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
+![wallpaperflare com_wallpaper](https://user-images.githubusercontent.com/93106680/201504915-feffdcb2-ed93-4ab5-8977-b05d33bcb246.jpg)
