@@ -1,6 +1,7 @@
 # PythonFy
  
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Título![Captura de tela_20221025_215324](https://user-images.githubusercontent.com/93106680/201504870-a3864755-c9f0-44af-a248-3f85e0fa3a51.png)
+ e Imagem de capa](#Título-e-Imagem-de-capa)
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
